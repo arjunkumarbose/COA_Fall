@@ -1,0 +1,2 @@
+SUB AL,30H
+AND AL,0FH
